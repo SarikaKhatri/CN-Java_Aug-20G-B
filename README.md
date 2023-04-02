@@ -11,3 +11,6 @@ Jokes
 -Login/Sign Up page (Page to register new user)
 -Teams Page (List of people who contibuted or build this page)
 -Individual profile pages (Profile page)
+
+# This is Sarika's file
+Sarika's contribution in project
